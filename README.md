@@ -1,6 +1,6 @@
-# Payfort FORT plugin for OpenCart (2.0.0)+
+# Payfort FORT plugin for OpenCart (3.0.0)+
 
-This is a Payfort Payment Gateway Extension for Opencart **2.0.0**.
+This is a Payfort Payment Gateway Extension for Opencart **3.0.0**.
 
 ## Installation
 
